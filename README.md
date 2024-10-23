@@ -1,6 +1,6 @@
 # Aero-Document
 
-if you want to add to this just dm me on cord or create a pull req :)
+if you want to add to this just dm me on Discord or join the server https://discord.gg/R6dePSsMHU
 
 ## Parts
 - Part 1 / [(File)](https://github.com/leaks995/Aero-Document/blob/main/Part%201.md)
