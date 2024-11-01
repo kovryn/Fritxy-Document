@@ -1,4 +1,4 @@
-# Aero-Document
+# Fritxy-Nuvia-Document
 
 if you want to add to this just dm me on Discord or join the server https://discord.gg/R6dePSsMHU
 
