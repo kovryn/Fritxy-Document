@@ -1,6 +1,6 @@
 # Fritxy-Nuvia-Document
 
-if you want to add to this just dm me on Discord or join the server https://discord.gg/R6dePSsMHU
+if you want to add to this just dm me on Discord or join the server https://discord.gg/5eRF9vyruj
 
 ## Parts
 - Part 1 / [(File)](https://github.com/leaks995/Aero-Document/blob/main/Part%201.md)
